@@ -15,5 +15,4 @@ A static portfolio website showcasing my DevOps journey and projects.
    ```
 2. Open index.html in your browser
 
-## Live Demo
-[Visit the website](https://your-s3-bucket-url.com)
+
