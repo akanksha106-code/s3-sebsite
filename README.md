@@ -1,6 +1,6 @@
-# My Portfolio Website
+# Portfolio Website
 
-This is my personal portfolio website showcasing my DevOps skills and projects.
+A static portfolio website showcasing my DevOps journey and projects.
 
 ## Technologies Used
 - HTML5
@@ -10,4 +10,10 @@ This is my personal portfolio website showcasing my DevOps skills and projects.
 
 ## Setup
 1. Clone the repository
-2. Open [index.html](http://_vscodecontentref_/0) in your browser
+   ```bash
+   git clone https://github.com/akanksha106-code/s3-sebsite.git
+   ```
+2. Open index.html in your browser
+
+## Live Demo
+[Visit the website](https://your-s3-bucket-url.com)
